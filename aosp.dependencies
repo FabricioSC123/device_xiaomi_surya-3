@@ -3,7 +3,7 @@
        "remote"      : "pixel-devices",
        "repository"  : "device_xiaomi_J20C-sepolicy",
        "target_path" : "device/xiaomi/J20C-sepolicy",
-       "branch"      : "twelve"
+       "branch"      : "twelve-wip"
    },
    {
        "remote"      : "pixel-devices",
@@ -15,7 +15,7 @@
        "remote"      : "pixel-devices",
        "repository"  : "kernel_xiaomi_surya",
        "target_path" : "kernel/xiaomi/surya",
-       "branch"      : "twelve"
+       "branch"      : "twelve-wip"
    },
    {
        "remote"      : "pixel-devices-blobs",
